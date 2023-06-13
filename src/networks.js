@@ -174,8 +174,7 @@ module.exports = {
       2: 0x00,
       3: 0x5ba81b19,
       // 4: 0x76b809bb (old Sapling branch id). Blossom branch id becomes effective after block 653600
-      // 4: 0x2bb40e60
-      4: 0xf5b9230b
+      4: 0x2bb40e60
     },
     coin: coins.ZEC
   },
